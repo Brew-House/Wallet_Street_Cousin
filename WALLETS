@@ -1,0 +1,76 @@
+# $WSC Wallets
+
+For full transparency, below are all official Wallet Street Cousin ($WSC) wallets, including the contract deployer, treasury, liquidity, and team holdings.
+
+Every wallet serves a defined purpose, and all token movements are trackable on-chain.
+
+---
+
+## 🧱 Deployer Wallet (Contract Creator)
+
+**Purpose:**  
+Deployed the $WSC contract and minted the full 8.23B supply.
+
+**Actions:**  
+- Minted total supply.
+- Immediately transferred tokens to the Treasury and Liquidity wallets.
+
+**Address:**  
+0x89cdc8542790b9814566d2523DBa31BC5D1E5a7F
+
+**Status:**  
+Deployment-only wallet. No further use planned.
+
+---
+
+## 💧 Liquidity Wallet
+
+**Purpose:**  
+Used exclusively for seeding and growing the WSC/FLR liquidity pool(s).
+
+**Allocation:**  
+55% of total supply, deployed in phases:
+- 12.5% initial
+- 12.5% Phase 2
+- 6 × 5% as community scales
+
+**Address:**  
+0x61c3600Af6d9eb6c83095e7d8C014B671123eFE5
+
+**Notes:**  
+All LP deployments will be announced ahead of time and traceable via this address.
+
+---
+
+## 📥 Treasury Wallet
+
+**Purpose:**  
+Holds the 35% reserve for marketing, ecosystem initiatives, CEX listings, and community incentives.
+
+**Address:**  
+0x5D5252E377dc3AAC3FEB0C5858Ea7E425534f4aF
+
+**Usage Examples:**  
+- Meme contests
+- Paid listings or bridges
+- Development of tools, bots, or content
+- Future DAO or community vote mechanisms
+
+---
+
+## 🔐 Founder & Team Wallet(s)
+
+**Purpose:**  
+Holds 10% allocation reserved for founding team and contributors.
+
+**Address(es):**  
+0x7FaA1A20EFD1127b8319dd09ed45884e012e8fA5
+
+**Notes:**  
+These funds are transparent and publicly visible. There is no stealth allocation.
+
+---
+
+All wallet activity will be disclosed in updates and linked from this repo.
+
+The meme is public. So are the wallets.
