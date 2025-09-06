@@ -21,6 +21,13 @@ Deployed the $WSC contract and minted the full 8.23B supply.
 **Status:**  
 Deployment-only wallet. No further use planned.
 
+### Wallet Deployment Notes - update 6/5/25
+- Original deployment wallet used to launch $WSC contract.  
+- Performed **two test transactions** to confirm deployment on live pair.  
+- No further use planned.  
+- Remaining gas in this wallet will be used to replicate test transactions (see `LP_Test_Transactions.md`) on future pairs.  
+
+
 ---
 
 ## 💧 Liquidity Wallet
@@ -39,6 +46,27 @@ Used exclusively for seeding and growing the WSC/FLR liquidity pool(s).
 
 **Notes:**  
 All LP deployments will be announced ahead of time and traceable via this address.
+
+---
+
+## ❄️ Liquidity_Cold Wallet
+
+**Purpose:**  
+Holds the full allocation of $WSC designated for liquidity, but is **not connected directly to DEXs**.  
+Functions as a cold reserve wallet to securely store tokens prior to tranche releases.
+
+**Usage:**  
+- Acts as the source of truth for the 55% LP allocation.  
+- Funds are moved from this wallet into the **Liquidity Wallet** when a tranche is deployed.  
+- Adds an extra layer of security by separating storage from execution.
+
+**Address:**  
+0x8778b9e2C6905F4bFEaB6924aa37Ba29E88b526F
+
+**Notes:**  
+This wallet will not interact with trading pairs directly.  
+Any gas remaining here may be used for test or verification transactions, but all public LP seeding will route through the **Liquidity Wallet** listed above.
+
 
 ---
 
