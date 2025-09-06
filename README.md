@@ -1,6 +1,6 @@
 # Wallet Street Cousin ($WSC)
 
-**Born from a typo. Raised into a meme. $WSC — the cousin on Wallet Street.**
+**Born from a typo. Forged into a meme. $WSC — Everyone's cousin on Wallet Street.**
 
 ---
 
@@ -20,7 +20,7 @@ Just 8.23 billion cousins and a reason to laugh.
 - **Name:** Wallet Street Cousin
 - **Symbol:** $WSC
 - **Chain:** Flare Mainnet
-- **Contract Address:** `0x37E43D91180711211b2076074028369DA0810766`
+- **Contract Address:** `0x37E43D91180171211b207670420824369DA80176`
 - **Total Supply:** 8.23 Billion (1 WSC for every human on Earth)
 - **Tax:** None
 - **Ownership:** All tokens minted to deployer → transferred to treasury wallet.
@@ -29,17 +29,18 @@ Just 8.23 billion cousins and a reason to laugh.
 
 ## Links
 
-- 🐦 Twitter/X: [@WalletStreetCuz](https://twitter.com/WalletStreetCuz)
-- 🔍 Flare Explorer: [View Contract](https://flare-explorer.flare.network/address/0x37E43D91180711211b2076074028369DA0810766)
-- 💧 DEX Listing: [Coming soon on SparkDEX]
+- 🐦 Twitter/X: https://x.com/walletstreetcuz?s=21
+- 🔍 Flare Explorer: [View Contract]https://flare-explorer.flare.network//tx/0xa3db2ae5ef12faa8ab7573c7c5d99a0fe70ad1beece41e11c457104b6eb15701
+- 💧 DEX Listing: https://app.blazeswap.xyz/swap - paste contrack address
+-    Instagram: https://www.instagram.com/wallet_street_cuz?igsh=NTBjb2UwNmlwZGRl&utm_source=qr
 
 ---
 
 ## Transparency First
 
 This repo is the public home of $WSC.  
-Inside, you’ll find breakdowns of tokenomics, LP seeding, giveaways, memes, and everything else that matters.
+Inside, you’ll find breakdowns of tokenomics, LP seeding, cousinisms, giveaways, memes, and everything else that matters.
 
-The meme is open source.
+This meme was open-sourced.
 
 ---
