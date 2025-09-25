@@ -12,21 +12,20 @@ Every wallet serves a defined purpose, and all token movements are trackable on-
 Deployed the $WSC contract and minted the full 8.23B supply.
 
 **Actions:**  
-- Minted total supply.
-- Immediately transferred tokens to the Treasury and Liquidity wallets.
+- Minted total supply.  
+- Immediately transferred tokens to the Treasury and Liquidity wallets.  
 
 **Address:**  
-0x89cdc8542790b9814566d2523DBa31BC5D1E5a7F
+`0x89cdc8542790b9814566d2523dba31bc5d1e5a7f`
 
 **Status:**  
 Deployment-only wallet. No further use planned.
 
-### Wallet Deployment Notes - update 6/5/25
+### Deployment Notes — update 6/5/25
 - Original deployment wallet used to launch $WSC contract.  
 - Performed **two test transactions** to confirm deployment on live pair.  
 - No further use planned.  
 - Remaining gas in this wallet will be used to replicate test transactions (see `LP_Test_Transactions.md`) on future pairs.  
-
 
 ---
 
@@ -36,13 +35,13 @@ Deployment-only wallet. No further use planned.
 Used exclusively for seeding and growing the WSC/FLR liquidity pool(s).
 
 **Allocation:**  
-55% of total supply, deployed in phases:
-- 12.5% initial
-- 12.5% Phase 2
-- 6 × 5% as community scales
+55% of total supply, deployed in phases:  
+- 12.5% initial  
+- 12.5% Phase 2  
+- 6 × 5% as community scales  
 
 **Address:**  
-0x61c3600Af6d9eb6c83095e7d8C014B671123eFE5
+`0x89cdc8542790b9814566d2523dba31bc5d1e5a7f`
 
 **Notes:**  
 All LP deployments will be announced ahead of time and traceable via this address.
@@ -58,15 +57,14 @@ Functions as a cold reserve wallet to securely store tokens prior to tranche rel
 **Usage:**  
 - Acts as the source of truth for the 55% LP allocation.  
 - Funds are moved from this wallet into the **Liquidity Wallet** when a tranche is deployed.  
-- Adds an extra layer of security by separating storage from execution.
+- Adds an extra layer of security by separating storage from execution.  
 
 **Address:**  
-0x8778b9e2C6905F4bFEaB6924aa37Ba29E88b526F
+`0x8778b9e2C6905F4bFEaB6924aa37Ba29E88b526F`
 
 **Notes:**  
 This wallet will not interact with trading pairs directly.  
-Any gas remaining here may be used for test or verification transactions, but all public LP seeding will route through the **Liquidity Wallet** listed above.
-
+Any gas remaining here may be used for test or verification transactions, but all public LP seeding will route through the **Liquidity Wallet** listed above.  
 
 ---
 
@@ -76,13 +74,13 @@ Any gas remaining here may be used for test or verification transactions, but al
 Holds the 35% reserve for marketing, ecosystem initiatives, CEX listings, and community incentives.
 
 **Address:**  
-0x5D5252E377dc3AAC3FEB0C5858Ea7E425534f4aF
+`0x5D5252E377dc3AAC3FEB0C5858Ea7E425534f4aF`
 
 **Usage Examples:**  
-- Meme contests
-- Paid listings or bridges
-- Development of tools, bots, or content
-- Future DAO or community vote mechanisms
+- Meme contests  
+- Paid listings or bridges  
+- Development of tools, bots, or content  
+- Future DAO or community vote mechanisms  
 
 ---
 
@@ -92,7 +90,7 @@ Holds the 35% reserve for marketing, ecosystem initiatives, CEX listings, and co
 Holds 10% allocation reserved for founding team and contributors.
 
 **Address(es):**  
-0x7FaA1A20EFD1127b8319dd09ed45884e012e8fA5
+`0x7faa1a20efd1127b8319dd09ed45884e012e8fa5`
 
 **Notes:**  
 These funds are transparent and publicly visible. There is no stealth allocation.
@@ -101,4 +99,4 @@ These funds are transparent and publicly visible. There is no stealth allocation
 
 All wallet activity will be disclosed in updates and linked from this repo.
 
-The meme is public. So are the wallets.
+**The meme is public. So are the wallets.**
