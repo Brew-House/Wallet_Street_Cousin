@@ -37,7 +37,7 @@ Liquidity is released in **8 tranches**, triggered as the community grows and vo
 > - Announced in advance via Twitter + GitHub
 > - Funded from the **Liquidity Wallet**
 > - Publicly verifiable on Flare Explorer
-> 30/9/25 update: Finalised Liquidity tranches, purposes and progress
+> - 30/9/25 update: Finalised Liquidity tranches, purposes and progress
 > - Initial pool seeded with 1,028,750,000 WSC/5000 WFLR at full 12.5% saturation
 > - Pool Rewards From Initial Pool (WFLR/WSC) will be used for gas to fund Liquidity Monsoon. After it can be used as Treasury Funds Not applicable to rolling escrow for operations as necessary, as well as funding Faucets and seeding new pools.
 > - Pool Rewards from subsequent pools will be re-invested into the Pool until the full target % has been distributed.
