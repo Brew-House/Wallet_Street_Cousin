@@ -115,4 +115,41 @@ Daily operations, Initial Liquidity Monsoon Drops from this wallet.
 These funds are transparent and publicly visible. There is no stealth allocation.
 All wallet activity will be disclosed in updates and linked from this repo.
 
+---
+Additional wallets created - 30/9/25
+---
+
+## 🎮 Faucet / Game Wallet  
+
+**Purpose:**  
+Dedicated to faucet distributions, mini-games, and experimental mechanics tied to $WSC engagement.  
+Ensures new entrants and community players can access tokens in small, sustainable amounts.  
+
+**Address(es):**  
+`0x6676DC025Bc08E0C4829eBbB529504dcA3B20184`  
+
+**Notes:**  
+- Strictly capped release mechanics (defined by faucet/game logic).  
+- Transactions traceable and transparent on-chain.  
+- Not used for liquidity or treasury purposes.  
+
+---
+
+## 🗣️ Founder’s Word-of-Mouth Wallet  
+
+**Purpose:**  
+Reserved for founder-led distribution of $WSC through personal/community trust networks.  
+Supports organic growth by rewarding individuals directly, without hype mechanics.  
+
+**Address(es):**  
+`0x5E89593680eD3c020d73D49B7515A749483ac705`  
+
+**Notes:**  
+- **Hard cap of 100,000 WSC per individual / drop.**  
+- All transfers remain publicly visible and tied to this wallet.  
+- Acts as a bridge between the founder and the wider community, ensuring transparency in “word of mouth” allocations.  
+
+---
+
+
 **The meme is public. So are the wallets.**
