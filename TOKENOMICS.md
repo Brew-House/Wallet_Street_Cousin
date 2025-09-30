@@ -36,24 +36,11 @@ Details in [`LP_PLAN.md`](./LP_PLAN.md)
 
 ---
 
-## Founder & Team Allocation
-
-- 10% reserved for project contributors
-- No stealth wallets
-- Disclosed and held transparently
-
-This ensures that meme momentum is supported by long-term aligned stewards — not short-term dumpers.
-**2.5% of this pledged to Community Faucets**
-**Founder and Team may add to LP, but rewards are to be re-invested in pool**
-**6-month vesting period (expires 2/3/26), after that sales tied to % of daily volume ala 'Taco Stand'**
-
----
-
 ## Treasury Reserve (35%)
 
 Held in the main treasury wallet, used for:
 
-- 🔥 Meme campaign support
+- 🔥 Eco-system onboarding
 - 📢 Marketing pushes
 - 📈 liquidity provision
 - 🧩 Community incentives
@@ -63,9 +50,11 @@ Held in the main treasury wallet, used for:
 ---
 
 ## No Tax. No Presale. No Burn.
-**10% of this allocation will be used for the initial Monsoon Liquidity drop**
-**1% of this allocation for Founder's 'Word of Mouth' drops - capped at 100 000 $WSC per person / wallet.**
-**Remainin - 21.5% - rolling escrow 36 contracts**
+- **10% of this allocation will be used for the initial Monsoon Liquidity drop**
+- **1.5% of supply to Community Faucet**
+- **1% of this allocation for Founder's 'Word of Mouth' drops - capped at 100 000 $WSC per person / wallet.**
+- **Remainin - 20% - rolling escrow 36 contracts**
+- **Founder pledges 60K WFLR to be staked and delegated to this wallet, to be returned when vesting period ends, accrued rewards will remain in the treasury wallet**
 
 
 $WSC is what it says it is — **meme-native**, **community-forward**, **liquidity-focused**, **and discerning**
@@ -77,3 +66,15 @@ Details in [`TREASURY_ALLOCATIONS.md`](./TREASURY_ALLOCATIONS.md)
 
 ---
 
+## Founder & Team Allocation
+
+- 10% reserved for project contributors
+- No stealth wallets
+- Disclosed and held transparently
+
+This ensures that meme momentum is supported by long-term aligned stewards — not short-term dumpers.
+- **2.5% of this pledged to Community Faucets**
+- **Founder and Team may add to LP, but rewards are to be re-invested in pool**
+- **6-month vesting period (expires 2/3/26), after that sales tied to % of daily volume ala 'Taco Stand'**
+
+---
