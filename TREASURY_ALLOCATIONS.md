@@ -2,6 +2,10 @@
 
 The Treasury holds **35% of the total $WSC supply** and is managed publicly via the [`Treasury Wallet`](./WALLETS.md).
 
+12.5% of total supply pledged to Liquidity Monsoon
+
+**Remaining Funds to be put into 36 individual escrow contracts ala 'Ripple Escrow' unused funds will be re-escrowed into another 36 months contract**
+
 These funds are reserved for ecosystem support, community growth, listings, and all the weird and wonderful things cousins may need as the project evolves.
 
 ---
@@ -10,12 +14,12 @@ These funds are reserved for ecosystem support, community growth, listings, and 
 
 | Category                  | Allocation | Purpose |
 |---------------------------|------------|---------|
-| 📣 Marketing & Memes       | 10%        | Meme contests, social ads, outreach, bots |
-| 📈 Listings & Bridge Liquidity | 10%    | CEX listing fees, wrapped tokens, cross-chain |
-| 🎁 Community Incentives   | 5%         | Holder rewards, airdrop games, cousin perks |
-| 🧰 Tools & Development     | 5%         | Dashboards, price bots, analytics tools |
-| 🗳 Governance / DAO Fund   | 3%         | Voting pools, future DAO treasury (if formed) |
-| 🧾 Operational Buffer      | 2%         | Misc funds for future cousin chaos |
+| 📣 Marketing & Memes       |         | Meme contests, social ads, outreach, onboarding |
+| 📈 On-going Liquidity |     | To be used in Liquidity Pools as needed |
+| 🎁 Community Incentives   |          | Holder rewards, airdrop games, cousin perks |
+| 🧰 Tools & Development     |          | Dashboards, price bots, analytics tools |
+| 🗳 Future FTSO   |          | Voting pools, future DAO treasury (if formed) |
+| 🧾 Operational Buffer      |          | Misc funds for future cousin chaos |
 
 ---
 
@@ -24,18 +28,16 @@ These funds are reserved for ecosystem support, community growth, listings, and 
 - No funds will be used for stealth transfers or personal gain.
 - Any treasury expenditure will be disclosed in this repo (via updates or issues).
 - All movements will come from the **Treasury Wallet** listed in [`WALLETS.md`](./WALLETS.md).
+- The above % are
 
 ---
 
 ## 📜 Future Use Examples
 
-- Memecoin ad campaign during peak meme season
-- CEX application fee and matching LP for listing
-- Telegram sticker packs, NFTs, or themed site builds
+- Remix competitions
 - LP incentives or bridge liquidity for other networks
 - Funding community-built bots, memes, or tools
-- Incentives for governance participation (if activated)
-
+- Outreach and education
 ---
 
 $WSC is fueled by cousins — the Treasury exists to back them when it matters.
