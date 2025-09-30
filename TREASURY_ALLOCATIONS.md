@@ -14,12 +14,12 @@ These funds are reserved for ecosystem support, community growth, listings, and 
 
 | Category                  | Allocation | Purpose |
 |---------------------------|------------|---------|
-| 📣 Marketing & Memes       |         | Meme contests, social ads, outreach, onboarding |
-| 📈 On-going Liquidity |     | To be used in Liquidity Pools as needed |
-| 🎁 Community Incentives   |          | Holder rewards, airdrop games, cousin perks |
-| 🧰 Tools & Development     |          | Dashboards, price bots, analytics tools |
-| 🗳 Future FTSO   |          | Voting pools, future DAO treasury (if formed) |
-| 🧾 Operational Buffer      |          | Misc funds for future cousin chaos |
+| 📣 Marketing & Memes       |   as required      | Meme contests, social ads, outreach, onboarding |
+| 📈 On-going Liquidity | as required    | To be used in Liquidity Pools as needed |
+| 🎁 Community Incentives   |     as required     | Holder rewards, airdrop games, cousin perks |
+| 🧰 Tools & Development     |     as required     | Dashboards, price bots, analytics tools |
+| 🗳 Future FTSO   |    as required      | Voting pools, future DAO treasury (if formed) |
+| 🧾 Operational Buffer      |     as required     | Misc funds for future cousin chaos |
 
 ---
 
