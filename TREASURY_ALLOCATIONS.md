@@ -28,7 +28,7 @@ These funds are reserved for ecosystem support, community growth, listings, and 
 - No funds will be used for stealth transfers or personal gain.
 - Any treasury expenditure will be disclosed in this repo (via updates or issues).
 - All movements will come from the **Treasury Wallet** listed in [`WALLETS.md`](./WALLETS.md).
-- The above % are
+
 
 ---
 
