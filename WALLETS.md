@@ -135,7 +135,7 @@ Ensures new entrants and community players can access tokens in small, sustainab
 
 ---
 
-## 🗣️ Founder’s Word-of-Mouth Wallet  
+## 🗣️ Founder’s Word-of-Mouth Wallet   - Splash Pot
 
 **Purpose:**  
 Reserved for founder-led distribution of $WSC through personal/community trust networks.  
@@ -151,5 +151,26 @@ Supports organic growth by rewarding individuals directly, without hype mechanic
 
 ---
 
+## ⚡ XRPL Wallet — FXRP Minting (FAssets)
+
+**Purpose:**  
+Holds XRP to **lock/mint FXRP** for WSC liquidity pools (FAssets).  
+Not used for airdrops, treasury spending, or trading.
+
+**Network:**  
+XRPL Mainnet
+
+**Address (classic r-address):**  
+`rGqPgTvrGyJudaMnGascMVp1Y34nZDpiqZ`
+
+
+**Notes:**  
+- Wallet is **dedicated to FXRP minting** and related operational flows only.  
+- All FXRP minted from this wallet will be routed to the **Liquidity pools** on Blazewswap for pool seeding.  
+- Do **NOT** send non-XRP assets to this address.
+- Do **NOT** send XRP to this Address   
+- All activity traceable on-chain
+
+---
 
 **The meme is public. So are the wallets.**
