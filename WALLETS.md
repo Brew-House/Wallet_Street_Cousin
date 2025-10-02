@@ -46,7 +46,7 @@ Used exclusively for seeding and growing the WSC/FLR liquidity pool(s).
 - 6 × 5% as community scales  
 
 **Address:**  
-`0x89cdc8542790b9814566d2523dba31bc5d1e5a7f`
+`0x61c3600Af6d9eb6c83095e7d8C014B671123eFE5`
 
 **Notes:**  
 All LP deployments will be announced ahead of time and traceable via this address.
