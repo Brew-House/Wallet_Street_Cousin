@@ -1,0 +1,21 @@
+{
+  "name": "Wallet Street Cousin Token List",
+  "logoURI": "https://raw.githubusercontent.com/Brew-House/ethereum-lists-tokens/master/tokens/flare/Medallion_3_2.png",
+  "keywords": ["flare", "walletstreetcousin", "community"],
+  "timestamp": "2025-10-20T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 14,
+      "address": "0xAcb42075DF8b57482B8BDd143133beeDc692FD16",
+      "symbol": "WSC",
+      "name": "Wallet Street Cousin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Brew-House/ethereum-lists-tokens/master/tokens/flare/Medallion_3_2.png"
+    }
+  ]
+}
