@@ -1,18 +1,18 @@
 {
-  "name": "Wallet Street Cousin Token List",
-  "logoURI": "https://raw.githubusercontent.com/Brew-House/ethereum-lists-tokens/master/tokens/flare/Medallion_3_2.png",
-  "keywords": ["flare", "walletstreetcousin", "community"],
-  "timestamp": "2025-10-20T12:00:00+00:00",
-  "version": { "major": 2, "minor": 0, "patch": 0 },
-  "tokens": [
-    {
-      "chainId": 14,
-      "address": "0xAcb42075DF8b57482B8BDd143133beeDc692FD16",
-      "symbol": "WSC",
-      "name": "Wallet Street Cousin",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Brew-House/ethereum-lists-tokens/master/tokens/flare/Medallion_3_2.png"
-    }
-  ],
-  "versionName": "v2.0.0"
+  "symbol": "WSC",
+  "name": "Wallet Street Cousin",
+  "address": "0xAcb42075DF8b57482B8BDd143133beeDc692FD16",
+  "chainId": 14,
+  "decimals": 18,
+  "logo": "https://raw.githubusercontent.com/Brew-House/ethereum-lists-tokens/master/tokens/flare/Medallion_3_2.png",
+  "support": "https://x.com/walletstreetcuz?s=21",
+  "website": "https://medium.com/@walletstreetcousin/wallet-street-cousin-cb5895907920",
+  "github": "https://github.com/Brew-House/Wallet_Street_Cousin_V2",
+  "community": {
+    "twitter": "https://x.com/walletstreetcuz?s=21",
+    "instagram": "https://www.instagram.com/wallet_street_cuz?igsh=NTBjb2UwNmlwZGRl&utm_source=qr",
+    "reddit": "https://www.reddit.com/u/wallet_street_cousin/s/fC0htLSDPu",
+    "medium": "https://medium.com/@walletstreetcousin"
+  },
+  "email": "walletstreetcousin@gmail.com"
 }
